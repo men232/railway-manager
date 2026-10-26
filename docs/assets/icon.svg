@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <title>railway-manager</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14203a"/>
+      <stop offset="1" stop-color="#070b16"/>
+    </linearGradient>
+    <linearGradient id="rail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5fd787"/>
+      <stop offset="0.55" stop-color="#00d7ff"/>
+      <stop offset="1" stop-color="#00afff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#00d7ff" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#00d7ff" stop-opacity="0"/>
+    </radialGradient>
+    <path id="track" d="M84 256 H176 C226 256 236 168 296 168 H318 M176 256 C226 256 236 344 296 344 H318 M318 168 C378 168 380 256 428 256 M318 344 C378 344 380 256 428 256"/>
+  </defs>
+
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <rect x="6" y="6" width="500" height="500" rx="106" fill="none" stroke="#00afff" stroke-opacity="0.22" stroke-width="4"/>
+  <circle cx="256" cy="256" r="230" fill="url(#glow)"/>
+
+  <!-- sleepers -->
+  <use href="#track" fill="none" stroke="#3a5280" stroke-width="54" stroke-dasharray="8 14"/>
+  <!-- two rails: a wide stroke with the middle cut out -->
+  <use href="#track" fill="none" stroke="url(#rail)" stroke-width="30" stroke-linecap="round"/>
+  <use href="#track" fill="none" stroke="#0d1526" stroke-width="16" stroke-linecap="round"/>
+
+  <!-- stations: the steps of a run -->
+  <circle cx="84" cy="256" r="30" fill="#5fd787"/>
+  <path d="M71 256 l9 9 l17 -19" fill="none" stroke="#0b1220" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <circle cx="318" cy="168" r="30" fill="#5fd787"/>
+  <path d="M305 168 l9 9 l17 -19" fill="none" stroke="#0b1220" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <circle cx="318" cy="344" r="30" fill="#0b1220" stroke="#00d7ff" stroke-width="9"/>
+  <path d="M318 330 A14 14 0 0 1 318 358 Z" fill="#00d7ff"/>
+
+  <circle cx="428" cy="256" r="30" fill="#0b1220" stroke="#00afff" stroke-width="9" stroke-opacity="0.75"/>
+</svg>

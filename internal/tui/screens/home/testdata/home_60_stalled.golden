@@ -1,0 +1,22 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Home                                     ┃
+┃                                                          ┃
+┃  railway-manager                                         ┃
+┃  stage · review · apply · resume      fake@example.test  ┃
+┃                                                          ┃
+┃  ✗ api root: 1 of 1 not redeployed · enter continue      ┃
+┃                                                          ┃
+┃  2 projects · 3 environments · 3 services · 3 variables  ┃
+┃                                                          ┃
+┃    ▤ Services        4 services                      s   ┃
+┃    ≡ Variables       by name or by value             v   ┃
+┃    ↻ Rotate secrets  find leaked secrets             R   ┃
+┃    ● Change set      nothing staged                  c   ┃
+┃    ◷ History         who changed what                h   ┃
+┃    ⚙ Settings        2 projects · 0 write envs       o   ┃
+┃                                                          ┃
+┃                                                          ┃
+┃ ──────────────────────────────────────────────────────── ┃
+┃                                                          ┃
+┃ q quit  ↑↓ move  enter open  r refresh  s services       ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

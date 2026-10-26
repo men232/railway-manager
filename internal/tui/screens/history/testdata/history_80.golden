@@ -1,0 +1,16 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager History                                            5 entries ┃
+┃ 10-24 11:59  Alice Example    applied  patch     producti…  ◆ ab12           ┃
+┃ 10-24 11:58  Alice Example    updated  variable  producti…  DATABASE_URL     ┃
+┃ 10-24 11:30  bob@example.com  applied  patch     staging    ◆ cd34           ┃
+┃ 10-24 09:00  ?                created  deploy    producti…                   ┃
+┃ 10-23 10:00  bob@example.com  deleted  variable  staging …  SESSION_SECRET_… ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃ ──────────────────────────────────────────────────────────────────────────── ┃
+┃                                                                              ┃
+┃ esc back  enter open run  m more  r refresh  / filter                        ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

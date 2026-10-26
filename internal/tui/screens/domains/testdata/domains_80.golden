@@ -1,0 +1,18 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Domains                                                      ┃
+┃ production · api                                                             ┃
+┃ api-production.up.railway.app            :8080                               ┃
+┃ shop.example.com                         :8080    verified                   ┃
+┃ ✗ www.example.com ●                      default  waiting for DNS            ┃
+┃ checkout-eu-west.storefront.example.com  :3000    verified                   ┃
+┃ + new.example.com ●                      :3000                               ┃
+┃ + railway domain ●                       default                             ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃ ──────────────────────────────────────────────────────────────────────────── ┃
+┃                                              ● 3 changes · 1 service · 1 env ┃
+┃ esc back  g railway domain  a custom domain  x delete  r refresh  / filter   ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

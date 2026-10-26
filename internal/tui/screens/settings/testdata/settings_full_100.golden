@@ -1,0 +1,26 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Settings                                                                         ┃
+┃   ▦ Projects              3  │ ✎ Write envs                                                      ┃
+┃   ≡ Environments        all  │                                                                   ┃
+┃ ▌ ✎ Write envs           11  │ Where the app may change variables, limits and domains. Every     ┃
+┃   ◷ Leak time   10-20 14:30  │ other environment is read only.                                   ┃
+┃   # Internal names        6  │                                                                   ┃
+┃   ◆ Icons              auto  │ shop  ● production  ● staging                                     ┃
+┃   @ Account               ✓  │ blog  ● production                                                ┃
+┃                              │ acme  ● dev  ● preview-1  ● preview-2  ● preview-3  ● qa          ┃
+┃                              │       ● staging-eu  ● staging-us  ● load-test                     ┃
+┃                              │                                                                   ┃
+┃                              │ 11 environments in 3 projects                                     ┃
+┃                              │                                                                   ┃
+┃                              │ enter pick the environments to write                              ┃
+┃                              │                                                                   ┃
+┃                              │                                                                   ┃
+┃                              │                                                                   ┃
+┃                              │                                                                   ┃
+┃                              │                                                                   ┃
+┃                              │ ───────────────────────────────────────────────────────────────── ┃
+┃                              │ ✗ Discover: connection refused                                    ┃
+┃ ──────────────────────────────────────────────────────────────────────────────────────────────── ┃
+┃                                                                                                  ┃
+┃ esc back  ↑↓ move  enter change  p projects  e environments  w write envs  l leak time  g icons  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

@@ -1,0 +1,24 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Change set                                                   ┃
+┃ runs                                                                         ┃
+┃   no runs                                                                    ┃
+┃ changes                                                                      ┃
+┃   shop/production · api                                                      ┃
+┃       API_KEY  → 11 chars  ⚠ drifted: value changed on Railway               ┃
+┃   shop/production · worker                                                   ┃
+┃       QUEUE  → 9 chars  ⚠ drifted: variable gone                             ┃
+┃ redeploys                                                                    ┃
+┃   [x] shop/production/api                                                    ┃
+┃   [x] shop/production/worker                                                 ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃ ──────────────────────────────────────────────────────────────────────────── ┃
+┃                                             ● 2 changes · 2 services · 1 env ┃
+┃ esc back  a apply  space select  x remove  t redeploy  enter open run        ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

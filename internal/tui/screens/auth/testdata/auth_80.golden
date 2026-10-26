@@ -1,0 +1,20 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Sign in                                                      ┃
+┃ Not signed in to Railway                                                     ┃
+┃ no Railway token: set RAILWAY_API_TOKEN or run railway login                 ┃
+┃                                                                              ┃
+┃ A token is read from, in order:                                              ┃
+┃   1. RAILWAY_API_TOKEN                                                       ┃
+┃   2. RAILWAY_TOKEN                                                           ┃
+┃   3. ~/.railway/config.json (railway login)                                  ┃
+┃                                                                              ┃
+┃ run railway login in another terminal, then press Enter                      ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃ ──────────────────────────────────────────────────────────────────────────── ┃
+┃                                                                              ┃
+┃ enter check again  q back                                                    ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

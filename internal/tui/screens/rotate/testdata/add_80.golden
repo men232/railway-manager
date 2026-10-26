@@ -1,0 +1,24 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Rotate secrets                     leak 10-20 14:00 · 1 rows ┃
+┃ add NEW_SECRET · choose the places                                           ┃
+┃ ── dev                                                                       ┃
+┃   [ ] shared                                                                 ┃
+┃   [x] api                                                                    ┃
+┃ ── production                                                                ┃
+┃   [ ] shared                                                                 ┃
+┃ ▸ [x] api                                                                    ┃
+┃   [ ] web                                                                    ┃
+┃   [ ] worker                                                                 ┃
+┃ ── staging                                                                   ┃
+┃   [ ] shared                                                                 ┃
+┃   [ ] api                                                                    ┃
+┃   [ ] cron                                                                   ┃
+┃   [ ] web                                                                    ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃ ──────────────────────────────────────────────────────────────────────────── ┃
+┃                                                                              ┃
+┃ space select  enter confirm  esc cancel                                      ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

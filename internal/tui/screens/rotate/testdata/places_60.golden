@@ -1,0 +1,22 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Rotate · JWT_SECRET  7 places · 2 values ┃
+┃    a  staging     api     10-02 11:00  ✗ delete          ┃
+┃    a  staging     cron    10-02 11:00  ⇉ from dev · api  ┃
+┃    a  staging     web     10-02 11:00  → 26 chars        ┃
+┃    a  dev         api     10-20 15:10  ↻ still leaked    ┃
+┃    b  production  api     10-01 09:30  ◆ GEN 64 chars    ┃
+┃    b  production  web     10-01 09:30  ◆ GEN 64 chars    ┃
+┃ ▸  b  production  worker  10-01 09:30                    ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃ ──────────────────────────────────────────────────────── ┃
+┃ 5 of 7 places change · 2 keep the old value              ┃
+┃ ──────────────────────────────────────────────────────── ┃
+┃                        ● 5 changes · 5 services · 2 envs ┃
+┃ esc back  g generate  p paste  f file  c copy  ? more    ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

@@ -1,0 +1,24 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Change set                               ┃
+┃ runs                                                     ┃
+┃   no runs                                                ┃
+┃ changes                                                  ┃
+┃   shop/production · api                                  ┃
+┃       API_KEY  → 11 chars                                ┃
+┃       limits  ✗ invalid: limits.set: bad change data: c… ┃
+┃   shop/production · worker                               ┃
+┃       QUEUE  → 9 chars                                   ┃
+┃       teleport  ✗ invalid: unknown change kind service.… ┃
+┃ redeploys                                                ┃
+┃   [x] shop/production/api                                ┃
+┃   [x] shop/production/worker                             ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃ ──────────────────────────────────────────────────────── ┃
+┃                         ● 4 changes · 2 services · 1 env ┃
+┃ esc back  a apply  space select  x remove  ? more        ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

@@ -1,0 +1,18 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Variables                                ┃
+┃ production · api                                         ┃
+┃ API_KEY       ••••••• (19)    → 11 chars                 ┃
+┃ DATABASE_URL  ••••••• (19)                               ┃
+┃ NEW_ONE                       + added                    ┃
+┃ SESSION       ••••••• (21)    ✗ delete                   ┃
+┃ SIGNING       sealed                                     ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃ ──────────────────────────────────────────────────────── ┃
+┃                          ● 3 changes · 1 service · 1 env ┃
+┃ esc back  e edit  a add  x delete  u undo  v reveal      ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

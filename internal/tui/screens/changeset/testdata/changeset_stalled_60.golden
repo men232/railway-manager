@@ -1,0 +1,24 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Change set                               ┃
+┃ ✗ api root: 1 of 1 not redeployed · enter continue       ┃
+┃ runs                                                     ┃
+┃   ✗ r1 failed 4/6                                        ┃
+┃ changes                                                  ┃
+┃   shop/production · api                                  ┃
+┃       API_KEY  → 11 chars                                ┃
+┃   shop/production · worker                               ┃
+┃       QUEUE  → 9 chars                                   ┃
+┃ redeploys                                                ┃
+┃   [x] shop/production/api                                ┃
+┃   [x] shop/production/worker                             ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃ ──────────────────────────────────────────────────────── ┃
+┃                         ● 2 changes · 2 services · 1 env ┃
+┃ esc back  a apply  space select  x remove  ? more        ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

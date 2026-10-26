@@ -1,0 +1,22 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Home                                                         ┃
+┃                                                                              ┃
+┃  █▀█ ▄▀█ █ █   █ █ █ ▄▀█ █▄█ ▄▄ █▀▄▀█ ▄▀█ █▄ █ ▄▀█ █▀▀ █▀▀ █▀█               ┃
+┃  █▀▄ █▀█ █ █▄▄ ▀▄▀▄▀ █▀█  █     █ ▀ █ █▀█ █ ▀█ █▀█ █▄█ ██▄ █▀▄               ┃
+┃  stage · review · apply · resume                          fake@example.test  ┃
+┃                                                                              ┃
+┃  2 projects · 3 environments · 3 services · 3 variables                      ┃
+┃  ✗ blog: Discover: connection refused · r retries                            ┃
+┃  ⟳ run 20261024-120000-ab12 applying  ━━━━━━━━━───────────────  2/5          ┃
+┃                                                                              ┃
+┃  ▌ ▤ Services        status, charts and logs                             s   ┃
+┃    ≡ Variables       by name or by value                                 v   ┃
+┃    ↻ Rotate secrets  find leaked secrets                                 R   ┃
+┃    ● Change set      1 change · 1 service · 1 env                        c   ┃
+┃    ◷ History         who changed what                                    h   ┃
+┃    ⚙ Settings        2 projects · 0 write envs                           o   ┃
+┃                                                                              ┃
+┃ ──────────────────────────────────────────────────────────────────────────── ┃
+┃                                               ● 1 change · 1 service · 1 env ┃
+┃ q quit  ↑↓ move  enter open  r refresh  s services  v variables  R rotate    ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

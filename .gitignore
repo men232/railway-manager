@@ -1,0 +1,19 @@
+.DS_Store
+.superpowers/
+/railway-manager
+/dist/
+*.test
+.worktrees/
+.shots/
+
+# secrets never belong in the repo (the app keeps its own in ~/.railway-manager)
+.env
+.env.*
+*.pem
+*.key
+
+# agent skills, installed locally
+.agents/
+agent/
+.claude/skills/
+skills-lock.json

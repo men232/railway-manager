@@ -1,0 +1,16 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Services                                 ┃
+┃ project  env  name     cpu      mem          pending     ┃
+┃ shop     pr…  api   ◇  ▤     —  ▥         —  ● 1         ┃
+┃ shop     pr…  web   ◇  ▤     —  ▥         —              ┃
+┃ shop     st…  api   ◇  ▤     —  ▥         —              ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃ ──────────────────────────────────────────────────────── ┃
+┃                           ● 1 change · 1 service · 1 env ┃
+┃ esc back  enter variables  d redeploy  / filter  ? more  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

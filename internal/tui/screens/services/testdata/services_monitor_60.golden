@@ -1,0 +1,18 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Services             5 services · 1 down ┃
+┃ project  env  name       cpu      mem          pending   ┃
+┃ shop     pr…  api     ●  ▤  1.10  ▥  407.0 MB  ● 1       ┃
+┃ shop     pr…  cron    ☾  ▤     —  ▥         —            ┃
+┃ shop     pr…  web     ◌  ▤  0.05  ▥  512.0 MB            ┃
+┃ shop     pr…  worker  ✗  ▤     —  ▥         —            ┃
+┃ blog     pr…  site    ◇  ▤     —  ▥         —            ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃ ──────────────────────────────────────────────────────── ┃
+┃                           ● 1 change · 1 service · 1 env ┃
+┃ esc back  enter variables  d redeploy  / filter  ? more  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

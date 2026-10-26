@@ -1,0 +1,20 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Variables                    by name · 5 groups · 1 diverged ┃
+┃ ▾ API_KEY  ×3    3 values  production, staging  ● 1                          ┃
+┃     a  production · api  changed 10-01 09:30  by Alice  → 11 chars           ┃
+┃     a  production · web  changed 10-02 10:15  by ?                           ┃
+┃     b  staging · api     changed 10-03 11:45  by …                           ┃
+┃   DEBUG    staging · web     changed 10-05 08:00  by …      ✗ delete         ┃
+┃   NEW_ONE  production · api                       by ?      + added          ┃
+┃   SIGNING  production · web  changed 10-06 08:00  by ?      sealed           ┃
+┃   TOKEN    production · api  changed 10-04 08:00  by ?                       ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃ ──────────────────────────────────────────────────────────────────────────── ┃
+┃                                            ● 3 changes · 2 services · 2 envs ┃
+┃ esc back  enter unfold  e edit  g by value  a add  x delete  u undo  ? more  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

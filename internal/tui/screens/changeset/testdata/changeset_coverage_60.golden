@@ -1,0 +1,24 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Change set                               ┃
+┃ runs                                                     ┃
+┃   no runs                                                ┃
+┃ changes                                                  ┃
+┃   API_COPY = API_KEY · 1 of 2 places · 1 keeps the old … ┃
+┃   TOKEN · 1 of 2 places · 1 keeps the old value          ┃
+┃   shop/production · api                                  ┃
+┃       API_KEY  → 11 chars                                ┃
+┃       TOKEN  → 9 chars                                   ┃
+┃   shop/production · worker                               ┃
+┃       QUEUE  → 9 chars                                   ┃
+┃ redeploys                                                ┃
+┃   [x] shop/production/api                                ┃
+┃   [x] shop/production/worker                             ┃
+┃ ! 2 groups partly rotated                                ┃
+┃ apply all 3 changes type "apply" and press enter: app█   ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃ ──────────────────────────────────────────────────────── ┃
+┃                         ● 3 changes · 2 services · 1 env ┃
+┃ enter confirm  esc cancel                                ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

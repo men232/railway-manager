@@ -1,0 +1,24 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Change set                                                   ┃
+┃ runs                                                                         ┃
+┃   ⟳ r3 running 3/7                                                           ┃
+┃   ✗ r2 failed 2/5                                                            ┃
+┃   ✓ r1 finished 1/1                                                          ┃
+┃ changes                                                                      ┃
+┃   shop/production · api                                                      ┃
+┃     * API_KEY  → 11 chars  ! written, not deployed                           ┃
+┃   shop/production · worker                                                   ┃
+┃       QUEUE  ⟳ r3                                                            ┃
+┃ redeploys                                                                    ┃
+┃   [x] shop/production/api                                                    ┃
+┃   [ ] shop/production/worker                                                 ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃ ──────────────────────────────────────────────────────────────────────────── ┃
+┃                                             ● 2 changes · 2 services · 1 env ┃
+┃ esc back  a apply  space select  x remove  t redeploy  enter open run        ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

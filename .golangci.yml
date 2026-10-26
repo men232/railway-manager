@@ -1,0 +1,28 @@
+version: "2"
+
+run:
+  timeout: 5m
+
+# A high-signal, low-false-positive core.
+linters:
+  default: none
+  enable:
+    - errcheck
+    - govet
+    - ineffassign
+    - staticcheck
+    - misspell
+  settings:
+    errcheck:
+      # Writes to an already-failing stdout/stderr are conventionally ignored.
+      exclude-functions:
+        - fmt.Fprint
+        - fmt.Fprintf
+        - fmt.Fprintln
+  exclusions:
+    generated: lax
+    rules:
+      - linters: [staticcheck]
+        text: "QF1001"
+      - linters: [staticcheck]
+        text: "QF1003"

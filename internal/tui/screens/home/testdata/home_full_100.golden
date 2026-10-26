@@ -1,0 +1,30 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Home                                                                             ┃
+┃                                                                                                  ┃
+┃                                                                                                  ┃
+┃                                                                                                  ┃
+┃            █▀█ ▄▀█ █ █   █ █ █ ▄▀█ █▄█ ▄▄ █▀▄▀█ ▄▀█ █▄ █ ▄▀█ █▀▀ █▀▀ █▀█                         ┃
+┃            █▀▄ █▀█ █ █▄▄ ▀▄▀▄▀ █▀█  █     █ ▀ █ █▀█ █ ▀█ █▀█ █▄█ ██▄ █▀▄                         ┃
+┃            stage · review · apply · resume                                                       ┃
+┃            fake@example.test · config · expires 14:05                                            ┃
+┃                                                                                                  ┃
+┃            2 projects · 3 environments · 3 services · 3 variables                                ┃
+┃            ⟳ run 20261024-120000-ab12 applying  ━━━━━━━━━───────────────  2/5                    ┃
+┃                                                                                                  ┃
+┃            ▌ ▤ Services        status, charts and logs                             s             ┃
+┃              ≡ Variables       by name or by value                                 v             ┃
+┃              ↻ Rotate secrets  leak 10-20 14:00                                    R             ┃
+┃              ● Change set      1 change · 1 service · 1 env                        c             ┃
+┃              ◷ History         who changed what                                    h             ┃
+┃              ⚙ Settings        2 projects · 1 write env                            o             ┃
+┃                                                                                                  ┃
+┃                                                                                                  ┃
+┃                                                                                                  ┃
+┃                                                                                                  ┃
+┃                                                                                                  ┃
+┃                                                                                                  ┃
+┃                                                                                                  ┃
+┃ ──────────────────────────────────────────────────────────────────────────────────────────────── ┃
+┃                                                                   ● 1 change · 1 service · 1 env ┃
+┃ q quit  ↑↓ move  enter open  r refresh  s services  v variables  R rotate  c change set          ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

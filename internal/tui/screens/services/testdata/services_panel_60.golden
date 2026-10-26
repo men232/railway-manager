@@ -1,0 +1,30 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Services             5 services · 1 down ┃
+┃ project  env  name       cpu      mem          pending   ┃
+┃ shop     pr…  api     ●  ▤  0.42  ▥  412.3 MB  ● 4       ┃
+┃ shop     pr…  cron    ☾  ▤     —  ▥         —            ┃
+┃ shop     pr…  web     ◌  ▤  0.05  ▥  512.0 MB            ┃
+┃ shop     pr…  worker  ✗  ▤     —  ▥         —            ┃
+┃ blog     pr…  site    ◇  ▤     —  ▥         —            ┃
+┃                                                          ┃
+┃                                                          ┃
+┃ ──────────────────────────────────────────────────────── ┃
+┃ ● ONLINE  api · shop/production · ◉ europe-west4, u…  1m ┃
+┃ source   acme/shop · ⎇ main · ⚙ NIXPACKS · ↻ on failure… ┃
+┃ commit   ● 0123456 · fix checkout totals · @ana          ┃
+┃ reach    ✗ shop.example.com ● · + new.example.com ● · ⊕… ┃
+┃ usage    ▤ 32 → 16 vCPU ●  ▥ 32.0 GB → 16.0 GB ●         ┃
+┃          ⛁ 1.2 GB / 5.0 GB → 10.0 GB ● can't be undone   ┃
+┃ deploys  ✓ deploy    3h 12m ago  @ana                    ┃
+┃          ✗ redeploy  1d 2h ago   @bo                     ┃
+┃          ○ deploy    2d 2h ago   @ana                    ┃
+┃ cpu      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣾⣿⣀⣤⣴⣾⣿⣀⣤⣴⣾⣿⣀⣤⣴⣾⣿⣀⣤⣴⣾⣿⣀⣤⣴⣾⣿ ┃
+┃          now 1.00 · peak 1.00 · limit 32                 ┃
+┃ mem      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ┃
+┃          now 407.0 MB · peak 407.0 MB · limit 32.0 GB    ┃
+┃ net      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣴⣴⣠⣾⢠⣾⣴⣴⣠⣾⢠⣾⣴⣴⣠⣾⢠⣾⣴⣴⣠⣾⢠⣾⣴⣴⣠⣾ ┃
+┃          now 93.9 KB/s · peak 93.9 KB/s                  ┃
+┃ ──────────────────────────────────────────────────────── ┃
+┃                          ● 4 changes · 1 service · 1 env ┃
+┃ esc back  enter variables  d redeploy  / filter  ? more  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

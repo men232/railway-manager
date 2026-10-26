@@ -1,0 +1,30 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Services             5 services · 1 down ┃
+┃ project  env  name       cpu      mem          pending   ┃
+┃ shop     pr…  api     ●  ▤  0.42  ▥  412.3 MB            ┃
+┃ shop     pr…  cron    ☾  ▤     —  ▥         —            ┃
+┃ shop     pr…  web     ◌  ▤  0.05  ▥  512.0 MB            ┃
+┃ shop     pr…  worker  ✗  ▤     —  ▥         —            ┃
+┃ blog     pr…  site    ◇  ▤     —  ▥         —            ┃
+┃                                                          ┃
+┃                                                          ┃
+┃ ──────────────────────────────────────────────────────── ┃
+┃ ✗ OFFLINE / FAILED  worker · shop/production          1m ┃
+┃ source   —                                               ┃
+┃ commit   —                                               ┃
+┃ reach    —                                               ┃
+┃ usage    ▤ —            ▥ —                              ┃
+┃          ⛁ no volume    ↓ —                              ┃
+┃ deploys  —                                               ┃
+┃                                                          ┃
+┃                                                          ┃
+┃ cpu      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ┃
+┃          now — · peak — · limit —                        ┃
+┃ mem      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ┃
+┃          now — · peak — · limit —                        ┃
+┃ net      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ┃
+┃          now — · peak —                                  ┃
+┃ ──────────────────────────────────────────────────────── ┃
+┃                                                          ┃
+┃ esc back  enter variables  d redeploy  / filter  ? more  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

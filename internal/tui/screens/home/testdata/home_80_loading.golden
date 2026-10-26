@@ -1,0 +1,22 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Home                        ⟳ reading variables 1/2 projects ┃
+┃                                                                              ┃
+┃  █▀█ ▄▀█ █ █   █ █ █ ▄▀█ █▄█ ▄▄ █▀▄▀█ ▄▀█ █▄ █ ▄▀█ █▀▀ █▀▀ █▀█               ┃
+┃  █▀▄ █▀█ █ █▄▄ ▀▄▀▄▀ █▀█  █     █ ▀ █ █▀█ █ ▀█ █▀█ █▄█ ██▄ █▀▄               ┃
+┃  stage · review · apply · resume                          fake@example.test  ┃
+┃                                                                              ┃
+┃  2 projects · 3 environments · 3 services · 0 variables                      ┃
+┃                                                                              ┃
+┃  ▌ ▤ Services        status, charts and logs                             s   ┃
+┃    ≡ Variables       by name or by value                                 v   ┃
+┃    ↻ Rotate secrets  find leaked secrets                                 R   ┃
+┃    ● Change set      nothing staged                                      c   ┃
+┃    ◷ History         who changed what                                    h   ┃
+┃    ⚙ Settings        2 projects · 0 write envs                           o   ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃ ──────────────────────────────────────────────────────────────────────────── ┃
+┃                                                                              ┃
+┃ q quit  ↑↓ move  enter open  r refresh  s services  v variables  R rotate    ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

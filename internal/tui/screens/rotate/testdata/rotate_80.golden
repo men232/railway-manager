@@ -1,0 +1,30 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Rotate secrets                     leak 10-20 14:00 · 9 rows ┃
+┃ ── database (1) ──────────────────────────────────────────────────────────── ┃
+┃        ↻ DB   mongo root                  ×1   1 URL  production             ┃
+┃ ── generated (5) ─────────────────────────────────────────────────────────── ┃
+┃        ◆ GEN  ADMIN_TOKEN                 ×1   production                    ┃
+┃        ◆ GEN  APP_SECRET                ! ×2   2 values  production, staging ┃
+┃        ◆ GEN  ENCRYPTION_SECRET_KEY     ! ×1   production                    ┃
+┃ ✓ 2/2  ◆ GEN  JWT_SECRET                ! ×3   production, staging           ┃
+┃        ◆ GEN  SESSION_PASSWORD            ×1   staging                       ┃
+┃ ── values you paste (3) ──────────────────────────────────────────────────── ┃
+┃        ✎ ASK  NUXT_PUBLIC_SITE_KEY        ×1   production                    ┃
+┃ ◐ 1/2  ✎ ASK  STRIPE_API_KEY              ×2   production                    ┃
+┃        ✎ ASK  MONGO_INITDB_ROOT_USERNA…   ×1   production                    ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃ ──────────────────────────────────────────────────────────────────────────── ┃
+┃ ◆ GEN  JWT_SECRET · 64 hex, like now                                         ┃
+┃ places 3  values 1  rotated 0/3 (after 10-20 14:00)                          ┃
+┃ ! logs every user out                                                        ┃
+┃ JWT_SECRET · 2 of 3 places · 1 keeps the old value                           ┃
+┃   a  production  api  10-01 09:30  23 days ago   → 24 chars                  ┃
+┃   … 2 more · enter shows every place                                         ┃
+┃ ↳ through references: 1 · redeployed with the new value                      ┃
+┃ ──────────────────────────────────────────────────────────────────────────── ┃
+┃                                             ● 3 changes · 2 services · 1 env ┃
+┃ esc back  enter places  space generate  A apply  h hide hidden  a add        ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

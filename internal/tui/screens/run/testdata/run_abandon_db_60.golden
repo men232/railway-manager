@@ -1,0 +1,24 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Run      r1 · failed · 4/6 · 10-24 14:00 ┃
+┃ ▾ database · production · mongo · root password          ┃
+┃ ▌ ✓ check the database can be reached  14:00:00          ┃
+┃   ✓ change the password in the datab…  password changed… ┃
+┃   ⊘ log in with the new password                         ┃
+┃                                                          ┃
+┃ ▾ production                                             ┃
+┃   ✓ redeploy mongo                     14:00:00          ┃
+┃                                                          ┃
+┃ ▾ staging                                                ┃
+┃   ✓ write 1 variable                   14:00:00          ┃
+┃       api  DB_URL  → 70 chars                            ┃
+┃   ✗ redeploy api                                         ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃ ! the database password may already be new; abandoning … ┃
+┃ abandon run r1? type "abandon" and press enter: █        ┃
+┃ ──────────────────────────────────────────────────────── ┃
+┃                                                          ┃
+┃ enter abandon  esc cancel                                ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

@@ -1,0 +1,14 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Services                                      synced 12s ago ┃
+┃   api            production   3 variables                                    ┃
+┃ > worker         production   1 variable                                     ┃
+┃   web            staging      12 variables                                   ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃ ──────────────────────────────────────────────────────────────────────────── ┃
+┃ ✓ saved settings                           ● 2 changes · 2 services · 2 envs ┃
+┃ enter open  esc back  e edit variable  a apply changes  s settings           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

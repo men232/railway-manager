@@ -1,0 +1,16 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Services                                                     ┃
+┃ / api  2/3                                                                   ┃
+┃ project  env         name     cpu      mem          net            pending   ┃
+┃ shop     production  api   ◇  ▤     —  ▥         —  ⇅           —            ┃
+┃ shop     staging     api   ◇  ▤     —  ▥         —  ⇅           —            ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃ ──────────────────────────────────────────────────────────────────────────── ┃
+┃                                                                              ┃
+┃ esc back  enter variables  d redeploy  R restart now  l limits  ? more       ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

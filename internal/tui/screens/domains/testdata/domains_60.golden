@@ -1,0 +1,18 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Domains                                  ┃
+┃ production · api                                         ┃
+┃ api-production.up.railway.app                            ┃
+┃ shop.example.com                         verified        ┃
+┃ ✗ www.example.com ●                      waiting for DNS ┃
+┃ checkout-eu-west.storefront.example.com  verified        ┃
+┃ + new.example.com ●                                      ┃
+┃ + railway domain ●                                       ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃                                                          ┃
+┃ ──────────────────────────────────────────────────────── ┃
+┃                          ● 3 changes · 1 service · 1 env ┃
+┃ esc back  g railway domain  a custom domain  x delete    ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

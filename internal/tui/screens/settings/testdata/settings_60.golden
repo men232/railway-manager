@@ -1,0 +1,24 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Settings                                 ┃
+┃ ▌ ▦ Projects                                           2 ┃
+┃   ≡ Environments                                     all ┃
+┃   ✎ Write envs                                         1 ┃
+┃   ◷ Leak time                                          — ┃
+┃   # Internal names                                     — ┃
+┃   ◆ Icons                                           auto ┃
+┃   @ Account                                            ✓ ┃
+┃ ──────────────────────────────────────────────────────── ┃
+┃ ▦ Projects                                               ┃
+┃                                                          ┃
+┃ The projects the app reads. Nothing else is listed or    ┃
+┃ loaded.                                                  ┃
+┃                                                          ┃
+┃ ws                                                       ┃
+┃   ▪ shop                                                 ┃
+┃   ▪ blog                                                 ┃
+┃ ──────────────────────────────────────────────────────── ┃
+┃ ✗ Discover: connection refused                           ┃
+┃ ──────────────────────────────────────────────────────── ┃
+┃                                                          ┃
+┃ esc back  ↑↓ move  enter change  p projects  ? more      ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

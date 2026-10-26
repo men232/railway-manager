@@ -1,0 +1,16 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ railway-manager Logs                                     7 lines · following ┃
+┃ production · api · dep-api                                                   ┃
+┃ 12:00:00 Starting Container                                                  ┃
+┃ 12:00:01 > shop-api@1.4.2 start                                              ┃
+┃ 12:00:02 listening on :8080                                                  ┃
+┃ 12:00:14 slow request GET /orders took 2380ms (threshold 1000ms) user=42 re… ┃
+┃ 12:00:15 GET /health 200 1ms                                                 ┃
+┃ 12:00:31 upstream payments: connect ECONNREFUSED 10.0.4.12:5432 — retrying … ┃
+┃ 12:00:36 reconnected to payments                                             ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃ ──────────────────────────────────────────────────────────────────────────── ┃
+┃                                                                              ┃
+┃ esc back  f pause  r read again  / filter                                    ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
