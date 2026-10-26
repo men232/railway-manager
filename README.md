@@ -15,6 +15,14 @@ apply it.
 go install github.com/men232/railway-manager/cmd/railway-manager@latest
 ```
 
+`go install` puts the binary in `$(go env GOPATH)/bin`, usually `~/go/bin`.
+If your shell says `railway-manager: command not found`, add that directory to
+your `PATH`, for zsh:
+
+```bash
+echo 'export PATH="$(go env GOPATH)/bin:$PATH"' >> ~/.zshrc && source ~/.zshrc
+```
+
 You need:
 
 - macOS or Linux.
